@@ -14,6 +14,9 @@
 
 <h3 align='center'>Languages et logiciels</h3>
 <p align='center'>
-<img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' alt="html5" width="40" height="40"/>
+<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt="html5"/>
+<img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' alt="html5"/>
+<img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white' alt="html5"/>
+<img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' alt="html5"/>
+<img src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white' alt="html5"/>
 </p>
