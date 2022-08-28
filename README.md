@@ -1,6 +1,6 @@
-<h1>Hey, bienvenue chez DARTHARAXA </h1>
+<h1 align='center'>Hey, bienvenue chez DARTHARAXA </h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DARTHARAXA&&show_icons=true&locale=fr" alt="dartharaxa" /></p>
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DARTHARAXA&&show_icons=true&locale=fr" alt="dartharaxa" /></p>
 
 Développeur du logiciel FireXPro.
 
