@@ -7,7 +7,7 @@
 <p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DARTHARAXA&&show_icons=true&locale=fr" alt="dartharaxa" /></p>
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 
 Développeur du logiciel FireXPro.
 
